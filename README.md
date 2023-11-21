@@ -6,6 +6,7 @@ Classic Macintosh: https://www.folklore.org/
 Windows internals: https://devblogs.microsoft.com/oldnewthing/ + переводы(https://www.transl-gunsmoker.ru/)  
 Crafting Interpriters: https://craftinginterpreters.com/  
 Game Programming Patterns: https://gameprogrammingpatterns.com/  
+Amazing digital treat for pure C lovers: https://nullprogram.com/  
 ### Helpfull WebApps
 Free Fonts: https://www.dafont.com/  
 Ascii Text Art Generator: https://patorjk.com/software/taag/#p=testall&f=Graffiti&t=Turborium  
