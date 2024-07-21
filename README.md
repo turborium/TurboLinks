@@ -13,6 +13,14 @@ Let’s Build A Simple Interpreter: https://ruslanspivak.com/lsbasi-part1/
 The Very Slow Jython Project: https://the-very-slow-jython-project.readthedocs.io/en/latest/index.html  
 Language Implementation Patterns: https://pragprog.com/titles/tpdsl/language-implementation-patterns/  
 
+### Assembler
+
+#### Unreal Cool Information And Books About x86 Assembly, Compillers, Etc...
+**The Art of Assembly Language Programming**  
+https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/PDFs/0_PDFIndexLinux.html  
+https://www.plantation-productions.com/Webster/www.artofasm.com/  
+https://www.randallhyde.com/books/index.html  
+
 ### Game Dev
 Game Programming Patterns: https://gameprogrammingpatterns.com/  
 
